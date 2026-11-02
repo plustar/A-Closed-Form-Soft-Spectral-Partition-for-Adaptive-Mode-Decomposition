@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: "A Closed-Form Soft Spectral Partition for Adaptive Mode Decomposition (softdamd)"
+message: >-
+  If you use this software, please cite the paper in
+  preferred-citation.
+type: software
+abstract: >-
+  A closed-form soft spectral partition for adaptive mode
+  decomposition: a normalised Lorentzian mask that replaces the
+  hard Voronoi mask of DAMD, with the experiments and the
+  verification suite of the paper.
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Jia
+    given-names: Hao
+    affiliation: Nankai University
+keywords:
+  - signal processing
+  - mode decomposition
+  - time-frequency analysis
+  - variational mode decomposition
+preferred-citation:
+  type: article
+  title: >-
+    A Closed-Form Soft Spectral Partition for Adaptive Mode
+    Decomposition
+  journal: IEEE Transactions on Signal Processing
+  year: 2026
+  notes: Under review
+  authors:
+    - family-names: Jia
+      given-names: Hao
+    - family-names: Yang
+      given-names: Chunyu
+    - family-names: Feng
+      given-names: Fan
+    - family-names: Caiafa
+      given-names: Cesar F.
+    - family-names: Duan
+      given-names: Feng
+    - family-names: Solé-Casals
+      given-names: Jordi
